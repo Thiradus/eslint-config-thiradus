@@ -2,7 +2,7 @@
 
 [![Thiradus Dark Banner](https://raw.githubusercontent.com/Thiradus/Branding/master/Graphics/Banner/Banner-Dark.png)](https://thiradus.com/)
 
-<h2>Thiradus Eslint Config</h2>
+<h2>Thiradus ESLint Config</h2>
 
 </div>
 
