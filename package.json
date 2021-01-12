@@ -1,0 +1,25 @@
+{
+	"name": "eslint-config-thiradus",
+	"version": "1.0.0",
+	"description": "The ESLint Configuration used for Linting Thiradus' JavaScript.",
+	"main": "index.js",
+	"repository": "https://github.com/Thiradus/eslint-config-thiradus",
+	"author": "Thiradus",
+	"license": "MIT",
+	"peerDependencies": {
+		"eslint": "^7.17.0",
+		"eslint-config-standard": "^16.0.2",
+		"eslint-plugin-html": "^6.1.1",
+		"eslint-plugin-import": "^2.22.1",
+		"eslint-plugin-node": "^11.1.0",
+		"eslint-plugin-promise": "^4.2.1"
+	},
+	"devDependencies": {
+		"eslint": "^7.17.0",
+		"eslint-config-standard": "^16.0.2",
+		"eslint-plugin-html": "^6.1.1",
+		"eslint-plugin-import": "^2.22.1",
+		"eslint-plugin-node": "^11.1.0",
+		"eslint-plugin-promise": "^4.2.1"
+	}
+}
