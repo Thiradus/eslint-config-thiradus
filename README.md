@@ -12,8 +12,17 @@ The ESLint Configuration used for Linting Thiradus' JavaScript projects.
 
 ## Installation
 
+##### 1. Add the configuration as a dependency.
 ```Bash
 npm install --save-dev eslint eslint-config-thiradus
+```
+
+##### 2. Add the following to your `.eslintrc.json`.
+```JSON
+{
+    "extends": "thiradus"
+}
+
 ```
 
 ## License
