@@ -27,4 +27,4 @@ npm install --save-dev eslint eslint-config-thiradus
 
 ## License
 
-This repository is licensed under the [MIT](./LICENSE.md) License &copy; 2015-2021 [Thiradus](https://github.com/Thiradus/)
+This repository is licensed under the [MIT](./LICENSE.md) License &copy; 2015-2022 [Thiradus](https://github.com/Thiradus/)
